@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "b555",
+      "cityName": "Penausende",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2025-04-06T17:10:40.150Z",
+      "notes": "",
+      "position": {
+        "lat": "41.261291493919884",
+        "lng": "-5.910644531250001"
+      }
+    }
+  ]
 }
